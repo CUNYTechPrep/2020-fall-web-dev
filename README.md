@@ -4,116 +4,138 @@
 
 ---
 
-# Fall 2020 Web Dev/Data Science Track <br />_Class Schedule and Materials_
+# Fall 2020 Web Dev Track <br />_Class Schedule and Materials_
 
-## Summer/Winter Prep Work
+## Summer Prep Work
 
-[Summer Homework](link)
+[Summer Homework]()
 
 ## (9/1 - 9/4) Week 1
 
-[Lecture Slides](lecture.pdf)
+[Lecture Slides](lecture-01.pdf)
+
+[Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
 
 Topics: 
 
 - Semester Overview
-- ...
+- Designing Web Apps
+- Review: HTML & CSS
+- Intro to Bootstrap
 
 Assignments:
 
-- []
+- Project Ideation: provide your idea in the ideation document
+- Meet your classmates and form teams
 
-## () Week 2
-
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 3
+## (9/8 - 9/11) Week 2
 
 Topics: 
 
-- Semester Overview
-- ...
+- React Intro
 
+## (9/15 - 9/18) Week 3
 
-## () Week 4
-
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 5
+> Note: _CUNY has no classes on Friday 9/18. CTP WILL have class. If you can't attend let your instructor know._
 
 Topics: 
 
-- Semester Overview
-- ...
+- Client-Server Communication
+    + Parts of a URL
+    + Understanding HTTP Request-Response
+- `fetch(...)` and Promises
+- More React
 
-## () Week 6
 
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 7
+## (9/22 - 9/25) Week 4
 
 Topics: 
 
-- Semester Overview
-- ...
+- More `fetch()` and React
+- React Router
 
-## () Week 8
-
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 9
+## (9/29 - 10/2) Week 5
 
 Topics: 
 
-- Semester Overview
-- ...
+- Fullstack Review: Frontend vs Backend
+- About `npm`
+- Building a backend with Express.js
+    + Routing
+    + Route Parameters
+    + Query Parameters
+    + Body Parameters
+- RESTful Routing
 
-## () Week 10
-
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 11
-
-Topics: 
-
-- Semester Overview
-- ...
-
-## () Week 12
+## (10/6 - 10/9) Week 6
 
 Topics: 
 
-- Semester Overview
-- ...
+- SDLC
+- MVC (_Models-Views-Controllers_) Project Structure
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
+- Views and Templates (Handlebars)
 
+## (10/13 - 10/16) Week 7
 
-## () NO CLASS
-
-### Thanksgiving Break / Spring Break
-
-## () Week 13
+> Note: _Wednesday 10/14 is a Monday schedule. If you can't attend class let your instructor know._
 
 Topics: 
 
-- Semester Overview
-- ...
+- Using MVC app structure
+- Using Sequelize.js
+- How to design an app using: mockups, models, and routes
 
-## () DEMO NIGHT
+## (10/20 - 10/23) Week 8
+
+Topics: 
+
+- Using Sequelize.js
+- Testing (Jest)
+
+## (10/27 - 10/30) Week 9
+
+Topics: 
+
+- Project Presentations
+- Implementing Authentication
+- Sessions
+- Passport.js, Bcrypt
+
+## (11/3 - 11/6) Week 10
+
+Topics: 
+
+- Code Reviews
+- Software Engineering Best Practices
+- [Resource link](http://web.mit.edu/6.005/www/fa16/classes/04-code-review/)
+
+## (11/10 - 11/13) Week 11
+
+Topics: 
+
+- _Lab Time: Work on Projects_
+
+## (11/17 - 11/20) Week 12
+
+Topics: 
+
+- _Lab Time: Work on Projects_
+
+
+## (11/24 - 11/27) NO CLASS
+
+### Thanksgiving Break
+
+## (12/1 - 12/4) Week 13
+
+Topics: 
+
+- Practice Demo Night Pitches and Demos
+- _Lab Time: Work on Projects_
+
+## (TBA) DEMO NIGHT
 
 ### Demo Night
 
