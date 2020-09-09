@@ -8,11 +8,11 @@
 
 ## Summer Prep Work
 
-[Summer Homework]()
+[Summer Homework](https://docs.google.com/document/d/1sVWDAxWoFSsgaG8eIDmZ7eqD1bvMH-Ac8c-Rbt2Dj5s/edit?usp=sharing)
 
 ## (9/1 - 9/4) Week 1
 
-[Lecture Slides](lecture-01.pdf)
+[Lecture Slides](materials/lecture-01.pdf)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
 
