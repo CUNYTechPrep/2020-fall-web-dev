@@ -20,8 +20,7 @@ Any version means it is installed.
 
 If these are not installed install the latest version of node.
 
-  - Windows users: https://nodejs.org/en/download/
-  - Mac/Linux users: https://github.com/CUNYTechPrep/ctp2019/blob/master/guides/development-environment-setup.md#nvm-and-node
+  - https://github.com/CUNYTechPrep/guides#development-environment-setup
   
 ## Step 2. Create and Launch a React project
 
@@ -365,8 +364,8 @@ To start off and understand the desired toggle effect, try changing
 to
 `let isSelected = ii === 1;`
 
-~https://jsbin.com/nawasuname/edit?html,js,output~
+https://glitch.com/edit/#!/spice-banana?path=src/BoardSwitcher.js:21:6
 
-You can import this class and its CSS into you local react-app so that you don't have to use jsbin.com, which does not provide us error outputs.
+You can import the JS code and its CSS into you local react-app so that you don't have to use glitch.
 
-> UPDATE: jsbin.com has been very buggy lately. I recommend downloading the code and css locally to try this example out. If you prefer an online environment I've also made a glitch version (https://glitch.com/edit/#!/spice-banana?path=src/BoardSwitcher.js:21:6) here you can code and the code will be compiled and run for you. Make sure to 1) click "Remix to edit" button on the top right and then 2) click the "Show" button on the top left to see the output.
+> I recommend downloading the code and css locally to try this example out. If you prefer an online environment I've also made a glitch version (https://glitch.com/edit/#!/spice-banana?path=src/BoardSwitcher.js:21:6) here you can code and the code will be compiled and run for you. Make sure to 1) click "Remix to edit" button on the top right and then 2) click the "Show" button on the top left to see the output.
