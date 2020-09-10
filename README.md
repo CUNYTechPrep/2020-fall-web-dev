@@ -30,9 +30,19 @@ Assignments:
 
 ## (9/8 - 9/11) Week 2
 
+[Lecture Slides](materials/React-Intro-2019.pdf)
+
+[Learn React 1: Step by Step](materials/learn-react-1.md)
+
 Topics: 
 
 - React Intro
+
+Assignments:
+
+- Form a team of 3
+- Team Project Proposal Guidelines (will post by weekend)
+
 
 ## (9/15 - 9/18) Week 3
 
