@@ -41,8 +41,6 @@ Topics:
 Assignments:
 
 - Form a team of 3
-- Team Project Proposal Guidelines (will post by weekend)
-
 
 ## (9/15 - 9/18) Week 3
 
@@ -55,6 +53,13 @@ Topics:
     + Understanding HTTP Request-Response
 - `fetch(...)` and Promises
 - More React
+
+Assignments:
+
+* Team Project Proposals (**Due before week 4 class**)
+  * Form a **team of 3** students and submit a Team Project Propsal.
+  * [Team Project Proposal guidelines](materials/team-project-proposal.md)
+  * [Submit Here](https://forms.gle/GozZ1fk6P4c4Cpfs7)
 
 
 ## (9/22 - 9/25) Week 4
