@@ -16,7 +16,7 @@
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
 
-Topics: 
+Topics:
 
 - Semester Overview
 - Designing Web Apps
@@ -34,7 +34,7 @@ Assignments:
 
 [Learn React 1: Step by Step](materials/learn-react-1.md)
 
-Topics: 
+Topics:
 
 - React Intro
 
@@ -46,7 +46,13 @@ Assignments:
 
 > Note: _CUNY has no classes on Friday 9/18. CTP WILL have class. If you can't attend let your instructor know._
 
-Topics: 
+[Lecture Slides (URL's and http)](materials/lecture-03.pdf)
+
+[Lecture Slides (fetch() and React)](materials/fetch-and-React-2019.pdf)
+
+[Zip Code React Lab](https://github.com/CUNYTechPrep/zip-code-react-lab)
+
+Topics:
 
 - Client-Server Communication
     + Parts of a URL
@@ -64,14 +70,14 @@ Assignments:
 
 ## (9/22 - 9/25) Week 4
 
-Topics: 
+Topics:
 
 - More `fetch()` and React
 - React Router
 
 ## (9/29 - 10/2) Week 5
 
-Topics: 
+Topics:
 
 - Fullstack Review: Frontend vs Backend
 - About `npm`
@@ -84,7 +90,7 @@ Topics:
 
 ## (10/6 - 10/9) Week 6
 
-Topics: 
+Topics:
 
 - SDLC
 - MVC (_Models-Views-Controllers_) Project Structure
@@ -96,7 +102,7 @@ Topics:
 
 > Note: _Wednesday 10/14 is a Monday schedule. If you can't attend class let your instructor know._
 
-Topics: 
+Topics:
 
 - Using MVC app structure
 - Using Sequelize.js
@@ -104,14 +110,14 @@ Topics:
 
 ## (10/20 - 10/23) Week 8
 
-Topics: 
+Topics:
 
 - Using Sequelize.js
 - Testing (Jest)
 
 ## (10/27 - 10/30) Week 9
 
-Topics: 
+Topics:
 
 - Project Presentations
 - Implementing Authentication
@@ -120,7 +126,7 @@ Topics:
 
 ## (11/3 - 11/6) Week 10
 
-Topics: 
+Topics:
 
 - Code Reviews
 - Software Engineering Best Practices
@@ -128,13 +134,13 @@ Topics:
 
 ## (11/10 - 11/13) Week 11
 
-Topics: 
+Topics:
 
 - _Lab Time: Work on Projects_
 
 ## (11/17 - 11/20) Week 12
 
-Topics: 
+Topics:
 
 - _Lab Time: Work on Projects_
 
@@ -145,7 +151,7 @@ Topics:
 
 ## (12/1 - 12/4) Week 13
 
-Topics: 
+Topics:
 
 - Practice Demo Night Pitches and Demos
 - _Lab Time: Work on Projects_
