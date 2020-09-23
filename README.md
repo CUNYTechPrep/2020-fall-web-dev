@@ -92,6 +92,7 @@ Topics:
 
 Topics:
 
+- _Career Coach Workshop 1_
 - SDLC
 - MVC (_Models-Views-Controllers_) Project Structure
 - Databases and Data Modeling
@@ -142,6 +143,7 @@ Topics:
 
 Topics:
 
+- _Career Coach Workshop 2_
 - _Lab Time: Work on Projects_
 
 
