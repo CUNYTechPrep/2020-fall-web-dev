@@ -77,6 +77,10 @@ Topics:
 
 ## (9/29 - 10/2) Week 5
 
+[Lecture Slides (Full Stack, npm, express.js intro)](materials/lecture-04.pdf)
+
+[Zip Code API Lab](https://github.com/CUNYTechPrep/zip-code-api-lab)
+
 Topics:
 
 - Fullstack Review: Frontend vs Backend
