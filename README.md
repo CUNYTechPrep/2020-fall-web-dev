@@ -94,6 +94,8 @@ Topics:
 
 ## (10/6 - 10/9) Week 6
 
+[Lecture Slides (SDLC, MVC, Data modeling, ORM's)](materials/lecture-05.pdf)
+
 Topics:
 
 - _Career Coach Workshop 1_
@@ -106,6 +108,8 @@ Topics:
 ## (10/13 - 10/16) Week 7
 
 > Note: _Wednesday 10/14 is a Monday schedule. If you can't attend class let your instructor know._
+
+[Project Starter](https://github.com/CUNYTechPrep/project-starter)
 
 Topics:
 
