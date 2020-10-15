@@ -117,6 +117,16 @@ Topics:
 - Using Sequelize.js
 - How to design an app using: mockups, models, and routes
 
+Assignments:
+
+* **First Project Presentation**
+  * During Week 9 class (10/27-10/30)
+  * Presentation Guidelines
+    * 8 minutes per team (5 min presentation, 3 min Q&A)
+    * All team members must present at least one slide
+    * See a presentation template here: [first_project_presentation_template.pdf](materials/first_project_presentation_template.pdf)
+    * (_Optional_) Show a demo of work in progress if you can
+
 ## (10/20 - 10/23) Week 8
 
 Topics:
@@ -128,7 +138,7 @@ Topics:
 
 Topics:
 
-- Project Presentations
+- **_Project Presentations_**
 - Implementing Authentication
 - Sessions
 - Passport.js, Bcrypt
