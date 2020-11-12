@@ -129,12 +129,16 @@ Assignments:
 
 ## (10/20 - 10/23) Week 8
 
+[Learn Sequelize lab](https://github.com/CUNYTechPrep/learn-sequelize)
+
 Topics:
 
 - Using Sequelize.js
 - Testing (Jest)
 
 ## (10/27 - 10/30) Week 9
+
+[Authentication in Project Starter](https://github.com/CUNYTechPrep/project-starter/commits/authentication)
 
 Topics:
 
@@ -144,6 +148,8 @@ Topics:
 - Passport.js, Bcrypt
 
 ## (11/3 - 11/6) Week 10
+
+[Lecture Slides (code reviews)](materials/code-reviews.pdf)
 
 Topics:
 
